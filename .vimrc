@@ -5,9 +5,6 @@ filetype plugin indent on
 set nocompatible   " Disable vi-compatibility
 set t_Co=256
 
-set guioptions-=T " Removes top toolbar
-set guioptions-=r " Removes right hand scroll bar
-set go-=L " Removes left hand scroll bar
 set linespace=15
 
 set showmode                    " always show what mode we're currently editing in
