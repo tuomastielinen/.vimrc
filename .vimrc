@@ -11,7 +11,6 @@ call vundle#begin()
 Plugin 'gmarik/Vundle.vim'
 
 " Bundles Here
-Bundle 'altercation/vim-colors-solarized'
 Bundle 'plasticboy/vim-markdown'
 Bundle 'othree/html5.vim'
 Bundle 'scrooloose/nerdtree'
@@ -39,8 +38,6 @@ filetype plugin indent on    " required
 set encoding=utf-8
 
 syntax enable
-set background=dark
-colorscheme solarized
 filetype plugin indent on
 
 set t_Co=256
