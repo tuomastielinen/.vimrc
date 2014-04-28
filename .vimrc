@@ -37,6 +37,7 @@ set encoding=utf-8
 syntax enable
 filetype plugin indent on
 
+set pastetoggle=<F2>
 set t_Co=256
 set linespace=15
 set showmode                    " always show what mode we're currently editing in
